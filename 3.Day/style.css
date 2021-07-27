@@ -74,7 +74,9 @@ h1 {
 .info .vento {
     flex: 1;
     text-align: center;
+
 }
+
 .tempTitulo,
 .ventoTitulo {
     color: #777;
@@ -111,7 +113,11 @@ h1 {
     background-color: #FFF;
     transform-origin: left;
 }
-
+/* .descInfo {
+    flex: 2;
+    text-align: center;
+    
+} */
 .aviso {
     color: #FFF;
     padding-top: 20px;
